@@ -98,7 +98,8 @@ ul li{
 }
 
 input[type="checkbox"]{
-    margin-right: 8px;
+    margin-right: 2px;
+    margin-left: 10px;
 }
 
 input[type="checkbox"]:checked + span::after{
